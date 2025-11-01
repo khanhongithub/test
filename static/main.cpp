@@ -14,7 +14,7 @@ int A::x = 2;
 
 int main()
 {
-    cout << "Acessing static member \n" << endl;
+    cout << x << "Acessing static member \n" << endl;
     cout << A::x << endl; 
 
     return 0;
