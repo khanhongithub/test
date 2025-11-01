@@ -8,7 +8,7 @@ public:
     static int x;
     A(){ cout << "A's constructor is called \n"; }
 };
-//test conflict
+//create conflict
 
 int A::x = 2;
 
