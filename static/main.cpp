@@ -19,5 +19,6 @@ int main()
     cout << A::x << endl; 
 //test line 1 conflict in func
 //test line 2 conflict in func
+    int x,y; //test non-comment conflict
     return 0;
 }
