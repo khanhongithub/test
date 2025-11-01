@@ -17,6 +17,7 @@ int main()
 {
     cout << "Acessing static member \n" << endl;
     cout << A::x << endl; 
-
+//test line 1 conflict in func
+//test line 2 conflict in func
     return 0;
 }
