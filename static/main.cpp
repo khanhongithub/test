@@ -6,6 +6,8 @@ class A {
 public:
     // static data member
     static int x;
+    int x;
+    int y;
     A(){ cout << "A's constructor is called \n"; }
 };
 //test conflict
