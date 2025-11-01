@@ -21,4 +21,5 @@ int main()
 //test line 2 conflict in func
     int x,y; //test non-comment conflict
     return 0;
+//test conflict if no line between
 }
