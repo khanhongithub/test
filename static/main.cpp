@@ -5,7 +5,7 @@ using namespace std;
 class A {
 public:
     // static data member
-    int x;
+    int x; //conflict here
     int y;
     A(){ cout << "A's constructor is called \n"; }
 };
