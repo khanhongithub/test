@@ -16,7 +16,7 @@ int A::x = 2;
 
 int main()
 {
-    cout << "Acessing static member in class A \n" << endl;
+    cout << "Acessing a static member in class A \n" << endl;
     cout << A::x << endl; 
 //test line 1 conflict in func
 //test line 2 conflict in func
