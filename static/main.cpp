@@ -9,7 +9,8 @@ public:
     A(){ cout << "A's constructor is called \n"; }
 };
 //test conflict
-
+//test line confict 1
+//test line confict 2
 int A::x = 2;
 
 int main()
