@@ -18,3 +18,5 @@ int main()
 
     return 0;
 }
+
+//create diff to use --no-commit
